@@ -6,7 +6,7 @@ title: Diplomatist
 description: > # this means to ignore newlines until "baseurl:"
   Diplomatist: What Do Cross-language Dependencies Tell Us About Software Ecosystem Health?
 baseurl: ''
-url: "https://diplomatist-cross.github.io"
+url: "https://diplomatist-dependencies.github.io"
 
 github:
   username: diplomatist-cross 
