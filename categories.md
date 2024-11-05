@@ -3,17 +3,13 @@ layout: post
 title:  "Experimental data"
 ---
 
-+ ###### RQ1 [Download this dataset used in RQ1](https://github.com/diplomatist-dependencies/diplomatist/tree/main/RQ1)
++ ###### RQ1 <a href="https://github.com/diplomatist-dependencies/diplomatist/tree/main/RQ1" style="color: black; text-decoration: none;">Download this dataset used in RQ1</a>
 
++ ###### RQ2 <a href="https://github.com/diplomatist-dependencies/diplomatist/tree/main/RQ2" style="color: black; text-decoration: none;">Download this dataset used in RQ2</a>
 
-+ ###### RQ2 [Download this dataset used in RQ2](https://github.com/diplomatist-dependencies/diplomatist/tree/main/RQ2)
++ ###### RQ3 <a href="https://github.com/diplomatist-dependencies/diplomatist/tree/main/RQ3" style="color: black; text-decoration: none;">Download this dataset used in RQ3</a>
 
-
-+ ###### RQ3 [Download this dataset used in RQ3](https://github.com/diplomatist-dependencies/diplomatist/tree/main/RQ3)
-
-
-+ ###### RQ4 [Download this dataset used in RQ4](https://github.com/diplomatist-dependencies/diplomatist/tree/main/RQ4)
-
++ ###### RQ4 <a href="https://github.com/diplomatist-dependencies/diplomatist/tree/main/RQ4" style="color: black; text-decoration: none;">Download this dataset used in RQ4</a>
 
 + ###### The issues reported by Diplomatist (RQ5)
 
