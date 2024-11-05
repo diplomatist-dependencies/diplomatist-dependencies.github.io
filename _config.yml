@@ -1,0 +1,33 @@
+# The Site Configuration
+
+# Import the theme
+# theme: jekyll-theme-chirpy
+title: Diplomatist
+description: > # this means to ignore newlines until "baseurl:"
+  Diplomatist: What Do Cross-language Dependencies Tell Us About Software Ecosystem Health?
+baseurl: ''
+url: "https://diplomatist-cross.github.io"
+
+github:
+  username: diplomatist-cross 
+
+repository: ShawnTeoh/matjek
+paginate: 5
+
+# MatJek specific configurations
+
+
+
+# Build settings
+markdown: kramdown
+gems:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-sitemap
+exclude:
+  - Gemfile
+  - Gemfile.lock
+sass:
+  style: compressed
+future: true

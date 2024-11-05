@@ -1,0 +1,83 @@
+<table width="100%" style="text-align: center;">
+  <tr style="background-color: #f2f2f2;">
+    <th style="width: 20%;">Fragile Libraries</th>
+    <th style="width: 10%;">Version</th>
+    <th style="width: 10%;">#Stars</th>
+    <th style="width: 10%;">Dependency Reach</th>
+    <th style="width: 30%;">Issue Introduced by Cross-language Dependencies</th>
+    <th style="width: 10%;">Issue ID</th>
+    <th style="width: 10%;">Status</th>
+  </tr>
+  <tr>
+    <td><code>dbt-dataops-starrocks</code></td>
+    <td>1.4.1</td>
+    <td>8.9K</td>
+    <td>34</td>
+    <td>pymysql>=1.1.0 (CVE-2024-36039)</td>
+    <td><a href="https://github.com/StarRocks/starrocks/issues/52450">#52450</a></td>
+    <td>Confirmed</td>
+  </tr>
+  <tr style="background-color: #f2f2f2;">
+    <td><code>io.springfox:springfox-swagger-ui</code></td>
+    <td>3.0.0</td>
+    <td>5.9K</td>
+    <td>7,039</td>
+    <td>@babel/traverse 7.2.3 (CVE-2023-45133), semver ^5.3.0 (CVE-2022-25883)</td>
+    <td><a href="https://github.com/springfox/springfox/issues/4092">#4092</a></td>
+    <td>Pending</td>
+  </tr>
+  <tr>
+    <td><code>apache.dolphinscheduler:dolphinscheduler-spi</code></td>
+    <td>3.1.9</td>
+    <td>12.8K</td>
+    <td>83</td>
+    <td>GitPython (CVE-2024-22190)</td>
+    <td><a href="https://github.com/apache/dolphinscheduler/issues/16742">#16742</a></td>
+    <td>Confirmed</td>
+  </tr>
+  <tr style="background-color: #f2f2f2;">
+    <td><code>springframework:spring-cloud-dataflow-core</code></td>
+    <td>2.11.1</td>
+    <td>1.1K</td>
+    <td>89</td>
+    <td>ws ^8.8.1 (CVE-2024-37890), jose 4.9.3 (CVE-2024-28176)</td>
+    <td><a href="https://github.com/spring-cloud/spring-cloud-dataflow/issues/6027">#6027</a></td>
+    <td>Pending</td>
+  </tr>
+  <tr>
+    <td><code>org.webjars.npm:micromatch</code></td>
+    <td>4.0.5</td>
+    <td>2.78K</td>
+    <td>55</td>
+    <td>micromatch 4.0.7 (CVE-2024-4067)</td>
+    <td><a href="https://github.com/micromatch/micromatch/issues/263">#263</a></td>
+    <td>Confirmed</td>
+  </tr>
+  <tr style="background-color: #f2f2f2;">
+    <td><code>com.aventstack:extentreports</code></td>
+    <td>5.1.1</td>
+    <td>224</td>
+    <td>68</td>
+    <td>jQuery 3.2.1 (CVE-2020-23064), Chart.js 2.7.2 (CVE-2020-7746)</td>
+    <td><a href="#">#444</a></td>
+    <td>Pending</td>
+  </tr>
+  <tr>
+    <td><code>org.scala-lang:scala-compiler</code></td>
+    <td>2.13.2</td>
+    <td>14.3K</td>
+    <td>6,340</td>
+    <td>jQuery 3.4.1 (CVE-2020-23064)</td>
+    <td><a href="https://github.com/scala/bug/issues/11974">#11974</a></td>
+    <td>Pending</td>
+  </tr>
+  <tr style="background-color: #f2f2f2;">
+    <td><code>org.apache.unomi:unomi-api</code></td>
+    <td>2.4.0</td>
+    <td>279</td>
+    <td>31</td>
+    <td>graphql-playground-react ^1.7.27 (CVE-2021-41249)</td>
+    <td><a href="https://issues.apache.org/jira/projects/UNOMI/issues/UNOMI-860?filter=allissues">#UNOMI-860</a></td>
+    <td>Pending</td>
+  </tr>
+</table>
