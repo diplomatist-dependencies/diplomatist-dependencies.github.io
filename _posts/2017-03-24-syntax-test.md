@@ -30,7 +30,7 @@ Create the database table and add the analyzed project info.
 
 Guest language configuration files parsing.
 
-{% highlight c linenos %}
+{% highlight python linenos %}
 # extract_dependency_configuration.py
 if __name__ == "__main__":
     project_dir = "/path/to/your/project"
@@ -46,7 +46,7 @@ if __name__ == "__main__":
 
 Cross-language invocation APIs analysis.
 
-{% highlight c linenos %}
+{% highlight python linenos %}
 # extract_dependency_APIs.py
 if __name__ == "__main__":
     jar_path = "path/to/your.jar"
