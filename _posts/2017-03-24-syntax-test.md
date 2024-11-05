@@ -10,7 +10,7 @@ Identify cross-language dependencies
 
 
 
-### [Downloads](https://github.com/diplomatist-cross/diplomatist)
+### [Downloads](https://github.com/Joegardner11/Diplomatist)
 
 
 
